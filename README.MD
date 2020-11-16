@@ -29,4 +29,4 @@
 
 - 如果你使用这款主板，但是显卡，网卡型号跟我不同，请查看以下教程进行相应配置。
 - If your mainboard is same with me,but you have different GPU card or wireless network card,please read dortania tutorials below.
-- <Dortania's OpenCore Install Guide>(https://dortania.github.io/OpenCore-Install-Guide/)
+- [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
