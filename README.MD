@@ -2,6 +2,9 @@
 
 - opencore version : 0.6.3
 - update : 2020-11-16
+- wireless card : BCM94360CD
+
+![image](https://github.com/RampagerB/OpenCore-Gigabyte-Aorus-Elite-B460M-10700-RX560-EFI/raw/main/images/1.png)
 
 ### 主板设置 BIOS Settings
 
