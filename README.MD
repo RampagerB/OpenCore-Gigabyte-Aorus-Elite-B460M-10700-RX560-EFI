@@ -1,3 +1,13 @@
+### 更新 Updates
+
+- 2021-02-23
+  - 升级 OC 版本到 0.6.6
+  - opencore updated to version 0.6.6
+  - 禁用 EFI 启动日志生成文件
+  - disable EFI log file generation
+  - 添加了一些 kext
+  - add some kexts
+
 ### 相关信息 Info
 
 - opencore version : 0.6.3
