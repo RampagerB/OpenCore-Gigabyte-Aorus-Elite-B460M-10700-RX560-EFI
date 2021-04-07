@@ -1,5 +1,10 @@
 ### 更新 Updates
 
+- 2021-04-07
+  - 升级 OC 版本到 0.6.8
+  - opencore updated to version 0.6.8
+  - 升级了 kexts
+  - update kexts
 - 2021-02-23
   - 升级 OC 版本到 0.6.6
   - opencore updated to version 0.6.6
