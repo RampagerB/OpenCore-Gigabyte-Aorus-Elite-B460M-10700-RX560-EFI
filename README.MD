@@ -1,5 +1,10 @@
 ### 更新 Updates
 
+- 2021-05-18
+  - 升级 OC 版本到 0.6.9
+  - opencore updated to version 0.6.9
+  - 请暂时不要尝试使用 opencore configurator 更新 kext，因为我试了，会无法启动, 问题出在 WhateverGreen、VirtualSMC、HibernationFixup 之中
+  - Don't update kext by using opencore configurator,because when I did,boot failed. One of these cause problem:WhateverGreen、VirtualSMC、HibernationFixup
 - 2021-04-07
   - 升级 OC 版本到 0.6.8
   - opencore updated to version 0.6.8
