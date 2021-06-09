@@ -1,5 +1,14 @@
+### 相关信息 Info
+
+- opencore version : 0.7.0
+- latest update : 2021-06-09
+- wireless card : BCM94360CD
+
 ### 更新 Updates
 
+- 2021-06-09
+  - 升级 OC 版本到 0.7.0
+  - Opencore updated to version 0.7.0
 - 2021-05-19
   - 美化开机界面
   - Boot UI beautify
@@ -20,12 +29,6 @@
   - Disable EFI log file generation
   - 添加了一些 kext
   - Add some kexts
-
-### 相关信息 Info
-
-- opencore version : 0.6.3
-- update : 2020-11-16
-- wireless card : BCM94360CD
 
 ![image](https://github.com/RampagerB/OpenCore-Gigabyte-Aorus-Elite-B460M-10700-RX560-EFI/raw/main/images/1.png)
 
