@@ -4,7 +4,7 @@
 - latest update : 2021-08-09
 - wireless card : BCM94360CD
 - CPU : Intel 10700
-- GPU : AMD RX460
+- GPU : AMD RX560
 - Motherboard : Gigabyte B460M Auros Elite
 
 ### 更新 Updates
