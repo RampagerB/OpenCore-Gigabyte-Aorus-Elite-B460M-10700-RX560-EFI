@@ -1,14 +1,16 @@
 ### 相关信息 Info
 
-- opencore version : 0.7.0
-- latest update : 2021-06-09
+- opencore version : 0.7.2
+- latest update : 2021-08-09
 - wireless card : BCM94360CD
 - CPU : Intel 10700
 - GPU : AMD RX460
 - Motherboard : Gigabyte B460M Auros Elite
 
 ### 更新 Updates
-
+- 2021-08-09
+  - 升级 OC 版本到 0.7.2
+  - Opencore updated to version 0.7.2
 - 2021-06-09
   - 升级 OC 版本到 0.7.0
   - Opencore updated to version 0.7.0
