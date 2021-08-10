@@ -8,9 +8,12 @@
 - Motherboard : Gigabyte B460M Auros Elite
 
 ### 更新 Updates
+
 - 2021-08-09
   - 升级 OC 版本到 0.7.2
   - Opencore updated to version 0.7.2
+  - 不要升级 WhateverGreen 到最新版本(1.5.2),会导致启动黑屏
+  - please don't update WhateverGreen to latest version(1.5.2),will cause boot fail
 - 2021-06-09
   - 升级 OC 版本到 0.7.0
   - Opencore updated to version 0.7.0
