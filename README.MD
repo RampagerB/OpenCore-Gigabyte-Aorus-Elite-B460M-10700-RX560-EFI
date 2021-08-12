@@ -9,6 +9,9 @@
 
 ### 更新 Updates
 
+- 2021-08-12
+  - 修改 SIP 参数以修复检测不到系统更新的问题[NVRAM->Add->7c...->csr-active-config from 'FF0F0000' to 'EF0F0000']
+  - modify SIP config to fix System update
 - 2021-08-09
   - 升级 OC 版本到 0.7.2
   - Opencore updated to version 0.7.2
