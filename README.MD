@@ -12,6 +12,8 @@
 - 2021-08-13
   - update kexts to latest version
   - 升级 kext 到最新版本
+  - Fix some DRM issues[DeviceProperties->Add->PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)->shikigva 80][explain this](https://dortania.github.io/OpenCore-Post-Install/universal/drm.html#fixing-drm)
+  - 修复一些 DRM 视频播放的问题[参数解释](https://dortania.github.io/OpenCore-Post-Install/universal/drm.html#fixing-drm)
 - 2021-08-12
   - 修改 SIP 参数以修复检测不到系统更新的问题[NVRAM->Add->7c...->csr-active-config from 'FF0F0000' to 'EF0F0000']
   - modify SIP config to fix System update
