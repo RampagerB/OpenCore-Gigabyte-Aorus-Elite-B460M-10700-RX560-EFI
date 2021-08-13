@@ -1,7 +1,7 @@
 ### 相关信息 Info
 
 - opencore version : 0.7.2
-- latest update : 2021-08-09
+- latest update : 2021-08-13
 - wireless card : BCM94360CD
 - CPU : Intel 10700
 - GPU : AMD RX560
@@ -9,14 +9,17 @@
 
 ### 更新 Updates
 
+- 2021-08-13
+  - update kexts to latest version
+  - 升级 kext 到最新版本
 - 2021-08-12
   - 修改 SIP 参数以修复检测不到系统更新的问题[NVRAM->Add->7c...->csr-active-config from 'FF0F0000' to 'EF0F0000']
   - modify SIP config to fix System update
 - 2021-08-09
   - 升级 OC 版本到 0.7.2
   - Opencore updated to version 0.7.2
-  - 不要升级 WhateverGreen 到最新版本(1.5.2),会导致启动黑屏
-  - please don't update WhateverGreen to latest version(1.5.2),will cause boot fail
+  - ~~不要升级 WhateverGreen 到最新版本(1.5.2),会导致启动黑屏~~
+  - ~~please don't update WhateverGreen to latest version(1.5.2),will cause boot fail~~
 - 2021-06-09
   - 升级 OC 版本到 0.7.0
   - Opencore updated to version 0.7.0
