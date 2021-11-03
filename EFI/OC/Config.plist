@@ -1009,7 +1009,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-AA95B1DDAB278B95</string>
 			<key>BoardSerialNumber</key>
-			<string>C02950270QXLNV91M</string>
+			<string>C02950270QXLNV912</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -1043,9 +1043,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZT05GJV3Q</string>
+			<string>C02ZT05GJV32</string>
 			<key>SystemUUID</key>
-			<string>920457D4-D61B-44B1-9495-B23A06C83D61</string>
+			<string>920457D4-D61B-44B1-9495-B23A06C83D62</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
