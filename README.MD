@@ -1,14 +1,22 @@
 ### 相关信息 Info
 
 - opencore version : 0.7.5
-- latest update : 2021-11-03
+- latest update : 2021-12-03
 - wireless card : BCM94360CD
 - CPU : Intel 10700
 - GPU : AMD RX560
 - Motherboard : Gigabyte B460M Auros Elite
 
+### 已知问题 Known issues
+
+- 机箱后面 TypeC 接口无法工作
+- Type C Back USB port not working
+
 ### 更新 Updates
 
+- 2021-12-03
+  - 修复 usb3.0 接口失效问题，手动进行了 USBMapping
+  - fix USB3.0 ports not working issue, and did USBMapping[explain this](https://dortania.github.io/OpenCore-Post-Install/usb/)
 - 2021-11-03
   - 升级到 OpenCorePkg 0.7.5，测试可以升级到 macOS Monterey
   - Update to OpenCorePkg version 0.7.5, and update to macOS Monterey test success.
