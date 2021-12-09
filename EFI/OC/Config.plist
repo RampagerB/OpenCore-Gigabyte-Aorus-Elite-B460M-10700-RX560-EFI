@@ -1339,6 +1339,10 @@
 		</dict>
 		<key>Output</key>
 		<dict>
+			<key>UIScale</key>
+			<integer>0</integer>
+			<key>ReconnectGraphicsOnConnect</key>
+			<false/>
 			<key>ClearScreenOnModeSwitch</key>
 			<false/>
 			<key>ConsoleMode</key>
@@ -1407,6 +1411,8 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+			<key>EnableVmx</key>
+			<false/>
 			<key>ActivateHpetSupport</key>
 			<false/>
 			<key>DisableSecurityPolicy</key>
