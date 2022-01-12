@@ -1,7 +1,7 @@
 ### 相关信息 Info
 
-- opencore version : 0.7.6
-- latest update : 2021-12-09
+- opencore version : 0.7.7
+- latest update : 2022-01-12
 - wireless card : BCM94360CD
 - CPU : Intel 10700
 - GPU : AMD RX560
@@ -14,6 +14,9 @@
 
 ### 更新 Updates
 
+- 2022-01-12
+  - 升级到 OpenCorePkg 0.7.7
+  - Update to OpenCorePkg version 0.7.7
 - 2021-12-09
   - 升级到 OpenCorePkg 0.7.6
   - Update to OpenCorePkg version 0.7.6
