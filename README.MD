@@ -1,7 +1,7 @@
 ### 相关信息 Info
 
-- opencore version : 0.8.3
-- latest update : 2022-09-26
+- opencore version : 0.8.5
+- latest update : 2022-10-25
 - wireless card : BCM94360CD
 - CPU : Intel 10700
 - GPU : AMD RX560
@@ -14,6 +14,14 @@
 
 ### 更新 Updates
 
+- 2022-10-25
+  - 适配 macOS Ventura 13.0
+  - Able to update to macOS Ventura
+  - 升级 kext 到最新版本
+  - update kexts to latest version
+  - 升级到 OpenCorePkg 0.8.5
+  - Update to OpenCorePkg version 0.8.5
+  -
 - 2022-09-26
   - 升级到 OpenCorePkg 0.8.3
   - Update to OpenCorePkg version 0.8.3
