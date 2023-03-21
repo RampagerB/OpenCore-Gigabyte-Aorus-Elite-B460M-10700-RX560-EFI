@@ -1,7 +1,7 @@
 ### 相关信息 Info
 
-- opencore version : 0.8.5
-- latest update : 2022-10-25
+- opencore version : 0.9.0
+- latest update : 2023-03-21
 - wireless card : BCM94360CD
 - CPU : Intel 10700
 - GPU : AMD RX560
@@ -13,6 +13,11 @@
 - Type C Back USB port not working
 
 ### 更新 Updates
+
+- 2023-03-21
+
+  - 升级到 OpenCorePkg 0.9.0
+  - Update to OpenCorePkg version 0.9.0
 
 - 2022-10-25
   - 适配 macOS Ventura 13.0
