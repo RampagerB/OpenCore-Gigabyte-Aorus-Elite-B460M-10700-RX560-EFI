@@ -14,6 +14,13 @@
 
 ### 更新 Updates
 
+- 2023-08-09
+
+  - 升级到 OpenCorePkg 0.9.4
+  - Update to OpenCorePkg version 0.9.4
+  - 升级 kext 到最新版本
+  - update kexts to latest version
+
 - 2023-03-21
 
   - 升级到 OpenCorePkg 0.9.0
