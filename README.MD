@@ -1,7 +1,7 @@
 ### 相关信息 Info
 
-- opencore version : 0.9.0
-- latest update : 2023-03-21
+- opencore version : 0.9.5
+- latest update : 2023-10-25
 - wireless card : BCM94360CD
 - CPU : Intel 10700
 - GPU : AMD RX560
@@ -13,6 +13,13 @@
 - Type C Back USB port not working
 
 ### 更新 Updates
+
+- 2023-10-25
+
+  - 升级到 OpenCorePkg 0.9.5
+  - Update to OpenCorePkg version 0.9.5
+  - 修复了 GPU 硬件加速和 DRM 视频播放问题
+  - fix gpu codec & DRM video issue
 
 - 2023-08-09
 
