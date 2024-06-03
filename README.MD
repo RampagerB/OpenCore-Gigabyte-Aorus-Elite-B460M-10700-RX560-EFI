@@ -1,7 +1,7 @@
 ### 相关信息 Info
 
-- opencore version : 0.9.5
-- latest update : 2023-10-25
+- opencore version : 1.0.0
+- latest update : 2024-06-03
 - wireless card : BCM94360CD
 - CPU : Intel 10700
 - GPU : AMD RX560
@@ -13,6 +13,13 @@
 - Type C Back USB port not working
 
 ### 更新 Updates
+
+- 2024-06-03
+
+  - 升级到 OpenCorePkg 1.0.0
+  - Update to OpenCorePkg version 1.0.0
+  - 修复部分已经不支持网卡的 WIFI 和蓝牙问题(需要下载[OpenCore-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)同时禁用 SIP，禁用 SIP 已经包含在 oc 配置中)
+  - fix wifi & bluetooth issue(you need to download and use [OpenCore-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/) and disable SIP, disabling SIP is already included in oc config)
 
 - 2023-10-25
 
