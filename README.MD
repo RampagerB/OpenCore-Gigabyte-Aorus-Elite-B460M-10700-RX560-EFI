@@ -12,6 +12,30 @@
 - 机箱后面 TypeC 接口无法工作
 - Type C Back USB port not working
 
+### 你需要设置 You need to...
+
+- 如果你用的 CPU 跟我的型号不同，请使用 GenSMBIOS 重新生成机型信息，然后执行下一步。
+- If your CPU is different one, use GenSMBIOS to regenerate Platform info then do next.
+- 不管你的 CPU 是否跟我一致，都请更换你自己生成的新 MLB、SystemSerialNumber、SystemUUID。
+- Please change MLB, SystemSerialNumber, SystemUUID for you own.(Config.plist -> PlatformInfo -> Generic).
+- 如果你有跟我不同型号的主板，请禁用 USBMap.kext，并重新对你的主板进行 USB 映射 [方法](https://github.com/corpnewt/USBMap)
+- If your mainboard is different with me,please disable USBMap.kext and do USB mapping for your own mainboard [method](https://github.com/corpnewt/USBMap).
+
+### 主板设置 BIOS Settings
+
+#### 启用 Enable
+
+- Above 4G Encoding
+- Erp
+
+#### 禁用 Disable
+
+- VT-d
+- WakeOnLAN
+- CSM
+- Secure Boot
+- CFG lock(if you can find it,but this is not necessary)
+
 ### 更新 Updates
 
 - 2024-06-03
@@ -113,28 +137,6 @@
   - Add some kexts
 
 ![image](https://github.com/RampagerB/OpenCore-Gigabyte-Aorus-Elite-B460M-10700-RX560-EFI/raw/main/images/1.png)
-
-### 主板设置 BIOS Settings
-
-#### 启用 Enable
-
-- Above 4G Encoding
-- Erp
-
-#### 禁用 Disable
-
-- VT-d
-- WakeOnLAN
-- CSM
-- Secure Boot
-- CFG lock(if you can find it,but this is not necessary)
-
-### 你需要设置 You need to...
-
-- 如果你用的 CPU 跟我的型号不同，请使用 GenSMBIOS 重新生成机型信息，然后执行下一步。
-- If your CPU is different one, use GenSMBIOS to regenerate Platform info then do next.
-- 不管你的 CPU 是否跟我一致，都请更换你自己生成的新 MLB、SystemSerialNumber、SystemUUID。
-- Please change MLB, SystemSerialNumber, SystemUUID for you own.(Config.plist -> PlatformInfo -> Generic).
 
 ### 其他情况 Other situations
 

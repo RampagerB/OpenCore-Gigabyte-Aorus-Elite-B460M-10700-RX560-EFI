@@ -383,7 +383,7 @@
                     <key>BundlePath</key>
                     <string>IOSkywalkFamily.kext</string>
                     <key>Comment</key>
-                    <string>V1.1</string>
+                    <string>V1.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -435,11 +435,11 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
-                    <string>USBMapDummy.kext</string>
+                    <string>USBMap.kext</string>
                     <key>Comment</key>
                     <string>V1.0</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -1028,7 +1028,7 @@
                     <key>boot-args</key>
                     <string>alcid=1 debug=0x100 keepsyms=1 unfairgva=1 amfi=0x80</string>
                     <key>csr-active-config</key>
-                    <data>AAAAAA==</data>
+                    <data>/w8AAA==</data>
                     <key>prev-lang:kbd</key>
                     <string>en-US:0</string>
                     <key>run-efi-updater</key>
