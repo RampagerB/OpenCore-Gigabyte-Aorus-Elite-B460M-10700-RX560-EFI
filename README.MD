@@ -1,8 +1,8 @@
 ### 相关信息 Info
 
-- opencore version : 1.0.0
-- latest update : 2024-06-03
-- wireless card : BCM94360CD
+- opencore version : 1.0.4
+- latest update : 2025-04-03
+- wireless card : BCM94360CD(Fenvi T919)
 - CPU : Intel 10700
 - GPU : AMD RX560
 - Motherboard : Gigabyte B460M Auros Elite
@@ -38,12 +38,17 @@
 
 ### 更新 Updates
 
+- 2025-04-03
+
+  - 升级到 OpenCorePkg 1.0.4
+  - Update to OpenCorePkg version 1.0.4
+
 - 2024-06-03
 
   - 升级到 OpenCorePkg 1.0.0
   - Update to OpenCorePkg version 1.0.0
-  - 修复部分已经不支持网卡的 WIFI 和蓝牙问题(需要下载[OpenCore-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)同时禁用 SIP，禁用 SIP 已经包含在 oc 配置中)
-  - fix wifi & bluetooth issue(you need to download and use [OpenCore-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/) and disable SIP, disabling SIP is already included in oc config)
+  - ~~修复部分已经不支持网卡的 WIFI 和蓝牙问题(需要下载[OpenCore-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)同时禁用 SIP，禁用 SIP 已经包含在 oc 配置中)~~
+  - ~~fix wifi & bluetooth issue(you need to download and use [OpenCore-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/) and disable SIP, disabling SIP is already included in oc config)~~
 
 - 2023-10-25
 
